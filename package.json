@@ -2,7 +2,7 @@
   "name": "password-generator",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://surajgupta0.github.io/Password-Generator/",
+  "homepage": "https://surajgupta0.github.io/password-generator/",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
